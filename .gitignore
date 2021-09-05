@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ToDoneApi/config/applicationhost.config
+/.vs/ToDoneApi/v16
+/bin/Debug/net5.0
+/obj/Debug/net5.0
+/obj
