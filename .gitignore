@@ -1,7 +1,8 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
+/.vs/ToDoneApi/config/applicationhost.config
+/.vs/ToDoneApi/v16
+/bin/Debug/net5.0
+/obj/Debug/net5.0
+/obj
 /obj/Debug/net5.0/ToDoneApi.csproj.CopyComplete
 /obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
 /bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
@@ -167,3 +168,4 @@
 /bin/Debug/net5.0/ToDoneApi.dll
 /bin/Debug/net5.0/ToDoneApi.deps.json
 /bin/Debug/net5.0/ToDoneApi.exe
+
